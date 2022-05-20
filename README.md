@@ -36,6 +36,9 @@ MIT LIcense
 ## Contact info
 
 Name: Jean Victorie
+
 Email: JeanTheCoders@gmail.com
+
 GIT: https://github.com/JeanVictoire
+
 Twitter: @JeanTheCoders
